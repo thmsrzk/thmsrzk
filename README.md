@@ -1,11 +1,7 @@
 ###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="React logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="Sass logo"  />
@@ -16,9 +12,14 @@
 </div>
 
 ##
+<p align='center'>Currently learning :</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+</div>
 
-<p align="center">Currently learning Web Development through OpenClassrooms training program (Learn more : <a href="https://openclassrooms.com/fr/paths/899-developpeur-web"><img src="https://flagicons.lipis.dev/flags/4x3/fr.svg" height="10" alt="french flag"/><img width="3"/></a> / <a href="https://openclassrooms.com/en/paths/903-web-developer"><img src="https://flagicons.lipis.dev/flags/4x3/gb.svg" height="10" alt="uk flag"/><img width="3"/></a>).</p>
-
+<p align="center">I'm learning Web Development through OpenClassrooms training program (Learn more : <a href="https://openclassrooms.com/fr/paths/899-developpeur-web"><img src="https://flagicons.lipis.dev/flags/4x3/fr.svg" height="10" alt="french flag"/><img width="3"/></a> / <a href="https://openclassrooms.com/en/paths/903-web-developer"><img src="https://flagicons.lipis.dev/flags/4x3/gb.svg" height="10" alt="uk flag"/><img width="3"/></a>).</p>
 
 ##
 ###
@@ -31,9 +32,6 @@
 ###
 ##
 <div align="center">
-  <a href="mailto:thoms.rzk@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="25" alt="gmail logo"/>
-  </a>
   <br>
   <a href="https://linkedin.com/in/thomas-rzk" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="25" alt="linkedin logo"/>

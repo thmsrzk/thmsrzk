@@ -4,7 +4,6 @@
   **Languages :**
   <br>
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
   
   **Front-end :**
   <br>
@@ -36,7 +35,7 @@
   
   **Currently learning :**
   <br>
-  <img src="https://skillicons.dev/icons?i=nestjs" height="30" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
 </div>
 

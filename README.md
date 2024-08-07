@@ -37,6 +37,7 @@
   <br>
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
 </div>
 
 ##

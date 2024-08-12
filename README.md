@@ -10,11 +10,11 @@
   
   **Front-end :**
   <br>
+  
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="React logo"  />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
   <img src="https://skillicons.dev/icons?i=sass" height="30" alt="Sass logo"  />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML5 logo"  />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS3 logo"  />
 
   **Back-end :**
   <br>
@@ -40,7 +40,6 @@
   
   **Currently learning :**
   <br>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
 </div>
 

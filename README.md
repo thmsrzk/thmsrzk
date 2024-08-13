@@ -3,12 +3,12 @@
  
   **I've already worked with:**
   
-  **Languages :**
+  Languages :
   <br>
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   
-  **Front-end :**
+  Front-end :
   <br>
   
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
@@ -16,18 +16,19 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
   <img src="https://skillicons.dev/icons?i=sass" height="30" alt="Sass logo"  />
 
-  **Back-end :**
+  Back-end :
   <br>
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
 
-  **Database :**
+  Database :
   <br>
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
 
-  **Tools and others :**
+  Tools and others :
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="30" alt="webstorm logo"  />
   <img src="https://cdn.worldvectorlogo.com/logos/sourcetree-1.svg" height="30" alt="SourceTree logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo"  />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="Figma logo"  />
@@ -50,14 +51,14 @@
 ##
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thmsrzk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=thmsrzk&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 ##
-<div align="left">
+<div align="center">
   <a href="https://linkedin.com/in/thomas-rzk" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="25" alt="linkedin logo"/>
   </a>

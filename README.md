@@ -1,4 +1,3 @@
-### 
 <div align="left">
  
   **I've already worked with:**
@@ -29,10 +28,11 @@
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="30" alt="webstorm logo"  />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="30" alt="gitlab logo"  />
   <img src="https://cdn.worldvectorlogo.com/logos/sourcetree-1.svg" height="30" alt="SourceTree logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo"  />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="Figma logo"  />
-  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo"  />
+
 </div>
 
 ##
@@ -42,6 +42,7 @@
   **Currently learning :**
   <br>
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
 </div>
 
 ##

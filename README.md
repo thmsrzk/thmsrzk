@@ -9,7 +9,6 @@
   
   Front-end :
   <br>
-  
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="React logo"  />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />

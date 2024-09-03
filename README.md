@@ -42,6 +42,7 @@
   <br>
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo" title="C#"  />
   <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo" title=".NET"  />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo" title="Visual Studio" />
 </div>
 
 ##

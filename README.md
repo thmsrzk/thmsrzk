@@ -38,7 +38,7 @@
 
 <div align="left">
   
-  **Currently learning :**
+  **I'm Currently learning :**
   <br>
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo" title="C#"  />
   <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo" title=".NET"  />
@@ -46,11 +46,6 @@
 </div>
 
 ##
-
-<p align="left">I'm learning Web Development through OpenClassrooms training program (Learn more : <a href="https://openclassrooms.com/fr/paths/899-developpeur-web"><img src="https://flagicons.lipis.dev/flags/4x3/fr.svg" height="10" alt="french flag" title="french flag"/><img width="3"/></a> / <a href="https://openclassrooms.com/en/paths/903-web-developer"><img src="https://flagicons.lipis.dev/flags/4x3/gb.svg" height="10" alt="uk flag" title="uk flag"/><img width="3"/></a>).</p>
-
-##
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thmsrzk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" title="languages graph"  />

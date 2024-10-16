@@ -47,15 +47,7 @@
 
 ##
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thmsrzk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" title="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=thmsrzk&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" title="streak graph"  />
-</div>
-
-###
-##
-<div align="center">
-  <a href="https://linkedin.com/in/thomas-rzk" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="25" alt="linkedin logo" title="linkedin logo"/>
-  </a>
 </div>
